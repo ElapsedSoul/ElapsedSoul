@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElapsedSoul
 - 👀 I’m interested in coding and debug.
-- 🌱 I’m currently learning iOS dev.
+- 🌱 I’m currently learning production.
 - 💞️ I’m looking to collaborate on an opensource project.
 - 📫 How to reach me ...
 
